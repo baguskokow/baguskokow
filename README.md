@@ -2,15 +2,15 @@
 
 Hello my name is **Koko**. I am interested in programming. I recently learned C++ programming language and I want to be a C++ Developer.
 
-```bash
+```
 #include <iostream>
 
 using namespace std;
 
-int main() {
-  cout << "Hello my name is Koko";
-
-  return 0;
+int main () {
+    cout << "Hello my name is Koko";
+    
+    return 0;
 }
 ```
 
