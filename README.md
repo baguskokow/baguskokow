@@ -1,4 +1,6 @@
-Hello my name is koko. I am interested in programming. I recently learned C++ programming language and I want to be a C++ Developer.
+👋 
+
+Hello my name is **Koko**. I am interested in programming. I recently learned C++ programming language and I want to be a C++ Developer.
 
 ```bash
 #include <iostream>
