@@ -1,6 +1,6 @@
 # 👋 
 
-Hello my name is **Koko**. I am interested in programming. I recently learned C++ programming language. I learned C++ because I like it and I want to always write code with C++.
+Hi my name is **Koko**. I'm interested in C++ programming language.
 ```
 #include <iostream>
 
