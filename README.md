@@ -4,10 +4,8 @@ Hi my name is **Koko**. I'm interested in C++ programming language.
 ```
 #include <iostream>
 
-using namespace std;
-
 int main () {
-    cout << "Hello my name is Koko";
+    std::cout << "Hello my name is Koko";
     
     return 0;
 }
