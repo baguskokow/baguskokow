@@ -1,7 +1,7 @@
 # 👋 
 
 Hi my name is **Koko**. I'm interested in C++ programming language.
-```
+```c++
 #include <iostream>
 
 int main () {
